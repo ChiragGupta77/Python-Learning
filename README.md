@@ -3,7 +3,7 @@ The repository contains all the program files and projects created by me in Pyth
 I created these projects while learning different concepts like:
   1. Loops
   2. File I/O
-  3. Conditioning
+  3. Conditional Statements
   4. Logic
      
 # Projects Created By Me::
