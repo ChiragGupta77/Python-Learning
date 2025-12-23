@@ -1,4 +1,4 @@
-# Products List
+# Products List Manager
 products = []
 while True:
     print("\n-----ADD PRODUCT-----")
