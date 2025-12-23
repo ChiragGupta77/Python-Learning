@@ -1,5 +1,5 @@
 # Python Learning
-Th repository contains all the program files and projects created by me in Python. 
+The repository contains all the program files and projects created by me in Python. 
 I created these projects while learning different concepts like:
   1. Loops
   2. File I/O
